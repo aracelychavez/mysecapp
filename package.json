@@ -17,9 +17,6 @@
         "start": "cds run"
     },
     "cds": {
-        "build": {
-            "target": "."
-        },
         "hana": {
             "deploy-format": "hdbtable"
         },
